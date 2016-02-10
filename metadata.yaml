@@ -1,0 +1,27 @@
+_repo: Cyprus-Historical-and-Descriptive_47056
+contributor:
+  translator:
+    agent_name: Joyner, Mary Anne
+    gutenberg_agent_id: '44115'
+    url: http://www.gutenberg.org/2009/agents/44115
+creator:
+  author:
+    agent_name: Löher, Franz von
+    birthdate: 1818
+    deathdate: 1892
+    gutenberg_agent_id: '44114'
+    url: http://www.gutenberg.org/2009/agents/44114
+    wikipedia: http://de.wikipedia.org/wiki/Franz_von_L%C3%B6her
+description: ''
+gutenberg_issued: '2014-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47056'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cyprus -- Description and travel'
+title: 'Cyprus: Historical and Descriptive'
+url: http://www.gutenberg.org/ebooks/47056
