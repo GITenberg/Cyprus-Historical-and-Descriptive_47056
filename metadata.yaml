@@ -1,9 +1,13 @@
 _repo: Cyprus-Historical-and-Descriptive_47056
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Joyner, Mary Anne
     gutenberg_agent_id: '44115'
     url: http://www.gutenberg.org/2009/agents/44115
+covers:
+- cover_type: archival
+  image_path: 47056-h/images/cover.jpg
 creator:
   author:
     agent_name: Löher, Franz von
@@ -13,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44114
     wikipedia: http://de.wikipedia.org/wiki/Franz_von_L%C3%B6her
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47056#Cyprus-Historical-and-Descriptive
 gutenberg_issued: '2014-10-05'
 gutenberg_type: Text
 identifiers:
